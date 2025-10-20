@@ -1,8 +1,4 @@
-#!/usr/bin/env bash
-# simple-interest.sh
-# Calculate simple interest: SI = (P * R * T) / 100
-# Usage: ./simple-interest.sh -p PRINCIPAL -r RATE -t TIME
-# Example: ./simple-interest.sh -p 1000 -r 5 -t 2
+
 
 usage() {
   cat <<EOF
